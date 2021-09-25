@@ -1,0 +1,5 @@
+package goshow // import "github.com/skeptycal/_play/goshow"
+
+Package goshow contains utilities for macOS.
+
+func Example()
